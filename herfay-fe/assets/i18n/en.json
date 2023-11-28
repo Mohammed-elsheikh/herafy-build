@@ -26,7 +26,7 @@
   "HowUseContent": "Find what you are searching for easily! Watch this to see how to explore Atlas Herafy in a few simple steps",
   "atlasMap": "Atlas Map",
   "atlasHerafy": "Atlas Herafy",
-  "drososFoundation": "Drosos Foundation",
+  "drososFoundation": "DROSOS Foundation",
   "HandInEgy": "Handicrafts in Egypt",
   "followAtlas": "Follow Atlas Herafy",
   "copyRight": "Copyrights reserved for DROSOS FOUNDATION 2023",
@@ -77,7 +77,7 @@
   "footerP1": "Connecting you to skilled",
   "footerP2": "craftspeople",
   "explore_handcarafts": "Explore handicrafts in Egypt",
-  "color_indicators": "Color Indicators",
+  "color_indicators": "Icon Indicator",
   "crafts_people_list": "Craftspeople",
   "search": "Search",
   "clear": "Clear",
@@ -166,5 +166,9 @@
   "skillful_craftspeople": "Skillful craftspeople",
   "distinctive_crafts": "Distinctive Crafts",
   "noImage": "There is no images",
-  "recycling": "Recycling"
+  "recycling": "Recycling",
+  "location": "Location",
+  "digital_channels": "Digital Channels",
+  "no_digital": "No digital existence",
+  "search_key": "Search key"
 }
